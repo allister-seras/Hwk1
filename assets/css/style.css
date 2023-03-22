@@ -20,7 +20,7 @@ header h1 {
     font-size: 48px;
 }
 
-header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
@@ -50,7 +50,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.marketing-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -86,17 +86,9 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
+.benefit-lead,
+.benefit-brand,
+.benefit-cost{
     margin-bottom: 32px;
     color: #ffffff;
 }
@@ -173,13 +165,13 @@ p {
     font-size: 36px;
 }
 
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
 
-.footer h2 {
+footer h2 {
     font-size: 20px;
 }
